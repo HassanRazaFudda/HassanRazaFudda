@@ -18,6 +18,23 @@ Here are some ideas to get you started:
 <h2 align="left">Hi 👋! My name is Hassan Raza and I'm a Software Engineer, from Pakistan</h2>
 
 ###
+I'm Hassan, a passionate software engineer with expertise in backend development using Node.js, Express.js, and MongoDB. I also work with front-end technologies like React.js, making me a versatile full-stack developer.
+
+🚀 I love building scalable REST APIs, working on real-time systems, and contributing to open-source projects. Currently working at Sybex Lab on dynamic web applications and real-time solutions.
+
+🌱 I’m always exploring new technologies, and I'm currently expanding my knowledge in data science.
+
+🔧 My tech stack includes:
+<ul>
+<li>Backend: Node.js, Express.js, REST APIs</li>
+<li>Frontend: React.js, Redux, Bootstrap</li>
+<li>Databases: MongoDB, Firebase, MySQL</li>
+</ul>
+📫 Let's connect! I'm open to collaborating on interesting projects or discussing new opportunities.
+
+
+###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HassanRazaFudda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
